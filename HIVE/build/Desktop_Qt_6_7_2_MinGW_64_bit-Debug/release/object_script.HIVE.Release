@@ -1,0 +1,15 @@
+release/ai.o
+release/anothergamewindow.o
+release/gameboard.o
+release/gamewindow.o
+release/hexbutton.o
+release/main.o
+release/mainwindow.o
+release/piece.o
+release/singlegamewindow.o
+release/moc_anothergamewindow.o
+release/moc_gameboard.o
+release/moc_gamewindow.o
+release/moc_hexbutton.o
+release/moc_mainwindow.o
+release/moc_singlegamewindow.o

@@ -1,0 +1,15 @@
+debug/ai.o
+debug/anothergamewindow.o
+debug/gameboard.o
+debug/gamewindow.o
+debug/hexbutton.o
+debug/main.o
+debug/mainwindow.o
+debug/piece.o
+debug/singlegamewindow.o
+debug/moc_anothergamewindow.o
+debug/moc_gameboard.o
+debug/moc_gamewindow.o
+debug/moc_hexbutton.o
+debug/moc_mainwindow.o
+debug/moc_singlegamewindow.o
